@@ -6,9 +6,9 @@ Set latitude and longitude values on a form using Google Maps. The map includes 
 Installation
 ------------
 
-This bundle is compatible with Symfony 3 and 4. Use composer to install:
+This bundle is compatible with Symfony 3, 4 and 5. Use composer to install:
 
-    composer require krixer/google-map-form-type-bundle
+    composer require valentin-cosavostra/google-map-form-type-bundle
 
 Register the bundle in your `config/bundles.php`:
 
@@ -115,3 +115,4 @@ Credits
 
 * Ollie Harridge (ollietb) as main author.
 * Hector Escriche (krixer) as contributor.
+* Valentin GRAGLIA (Valentin-CosaVostra) as contributor.
